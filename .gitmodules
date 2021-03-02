@@ -1,0 +1,3 @@
+[submodule "fitbit-importer"]
+	path = fitbit-importer
+	url = git@github.com:byteOfChaos/fitbit-importer.git
